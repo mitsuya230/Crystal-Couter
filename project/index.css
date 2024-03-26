@@ -1,0 +1,826 @@
+.sassy-frass-regular {
+  font-family: "Sassy Frass", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 128px;
+  color: #976E5C;
+  
+  text-align: center;
+}
+
+.inter-uniquifier {
+  color:  #976E5C;
+  text-decoration: none;
+  border: #976E5C 2px solid;
+  font-size: 36px;
+  padding: 7px 10px;
+  font-style: italic;
+  margin-left: 1200px;
+  font-family: "Inter";
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  transition: color 0.3s linear,
+  grayscale 0.3s linear;
+  
+  
+}
+
+.inter-uniquifier:hover {
+  background-color: #976E5C;
+  color: white;
+}
+
+
+
+.container {
+  margin: 0px 100px;
+}
+
+.body {
+  margin: 0;
+  font-family: "Sassy Frass",
+}
+
+.header-line  {
+  padding-top: 50px;
+  display: flex;
+  align-items : center; 
+  justify-content: space-between;
+}
+
+.line {
+  text-align: center;
+  position: relative; z-index: 1;
+}
+
+.photo{
+  position: relative;
+  text-align: right ;
+  size: 586px 284px;
+  top : -350px;
+  z-index: 2;
+  margin-right: 500px;
+}
+.qwe {
+  position: relative;
+  text-align: right ;
+  top: -325px;
+  margin-right: 500px;
+  
+}
+.ring {
+  position: relative;
+  text-align: left ;
+  size: 165px 164px;
+  z-index: 2;
+  top : -820px;
+  margin-left: 520px;
+}
+
+.text {
+ /* White gold pendant */
+position: absolute;
+z-index: 2;
+font-style: italic;
+width: 252px;
+height: 118px;
+left: 1100px;
+right: 208px;
+top: 370px;
+bottom: 4565px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 40px;
+font-weight: 300;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+color: rgb(121, 89, 1);
+} 
+
+.txt{
+  font-style: italic;
+  position: absolute;
+  z-index: 2;
+  width: 389px;
+  height: 168px;
+  left: 350px;
+  right: 785px;
+  top: 650px;
+  bottom: 4228px;
+  color: rgb(121, 89, 1);
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 300;
+  line-height: 39px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+.vector1{
+  /* Vector 1 */
+position: absolute;
+left: 375px;
+top: 900px;
+}
+
+.tixt{
+  /* White gold ring with diamonds and tanzanite */
+position: absolute;
+width: 318px;
+height: 154px;
+left: 360px;
+right: 893px;
+top: 930px;
+bottom: 4024px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 40px;
+font-weight: 100;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.lux1{
+  /* 092A2AC9F1353D8C125D3E6F528A 1 */
+position: relative;
+z-index: 1;
+left: 349px;
+top: -311px;
+}
+
+.like1{
+  background-image: url(logo.png);
+  position: absolute;
+  z-index: 2;
+  text-align: center;
+  height: 60px;
+  width: 90px;
+  top: -8px;
+  left: 239px;
+  transition: background-image 0.3s linear;
+}
+.like1:hover {
+  background-image: url(logo2.png);
+  
+}
+.lux2{
+  /* 06AFE50F0029918FABAC2A52864C 1 */
+position: absolute;
+width: 490px;
+height: 453px;
+left: 690px;
+top: 920px;
+box-sizing: border-box;
+border: 1px solid rgb(0, 0, 0);
+background: url(58B21B3F568EDC9B2DDAEF5FEA63);
+}
+
+.like2{
+  background-image: url(logo.png);
+  position: absolute;
+  z-index: 2;
+  text-align: center;
+  height: 60px;
+  width: 90px;
+  top: -8px;
+  left: 400px;
+  transition: background-image 0.3s linear;
+}
+.like2:hover {
+  background-image: url(logo2.png);
+  
+}
+.text2{
+  /* White gold pendant with diamonds and tanzanite */
+position: absolute;
+width: 490px;
+height: 93px;
+left: 685px;
+right: 390px;
+top: 1375px;
+bottom: 3637px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 32px;
+font-weight: 100;
+line-height: 39px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.lux3{
+  /* 58B21B3F568EDC9B2DDAEF5FEA63 1 */
+position: absolute;
+width: 323px;
+height: 363px;
+left: 1185px;
+top: 1090px;
+box-sizing: border-box;
+border: 1px solid rgb(0, 0, 0);
+background: url(58B21B3F568EDC9B2DDAEF5FEA63);
+}
+
+.like3{
+  background-image: url(logo.png);
+  position: absolute;
+  z-index: 2;
+  text-align: center;
+  height: 60px;
+  width: 90px;
+  top: -8px;
+  left: 234px;
+  transition: background-image 0.3s linear;
+}
+.like3:hover {
+  background-image: url(logo2.png);
+  
+}
+
+.text3{
+  /* Earrings in white gold with diamonds and tanzanites */
+position: absolute;
+width: 318px;
+height: 154px;
+left: 1185px;
+right: 63px;
+top: 915px;
+bottom: 4035px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 36px;
+font-weight: 100;
+line-height: 44px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.cost1{
+  /* 1 028£ */
+position: absolute;
+width: 331px;
+height: 105px;
+left: 360px;
+right: 887px;
+top: 1460px;
+bottom: 3516px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 100;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: center;
+/* border: #000000 2px solid; */
+}
+
+.cost2{
+/* 1199£ */
+position: absolute;
+width: 404px;
+height: 67px;
+left: 725px;
+right: 435px;
+top: 1460px;
+bottom: 3554px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 100;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+.cost3{
+/* 1099£ */
+position: absolute;
+width: 264px;
+height: 67px;
+left: 1225px;
+right: 83px;
+top: 1460px;
+bottom: 3554px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 100;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+.name-items{
+  /* a set of three pieces of white gold with diamonds and tanzanite LUX */
+position: absolute;
+width: 882px;
+height: 109px;
+left: 500px;
+right: 190px;
+top: 1550px;
+bottom: 3429px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 250;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.vector2{
+  /* Vector 2 */
+position: absolute;
+width: 1170px;
+height: 0;
+left: -115px;
+top: 130px;
+}
+
+
+.classic1{
+  /* 0BDB960AF8522BB469FAAF7E41DC 1 */
+position: absolute;
+z-index: 1;
+width: 331px;
+height: 368px;
+left: -140px;
+right: -100px;
+top: 182px;
+bottom: -1650px;
+border: 1px solid rgb(0, 0, 0);
+background: url(0BDB960AF8522BB469FAAF7E41DC);
+}
+
+.like4{
+  background-image: url(logo.png);
+  position: absolute;
+  z-index: 2;
+  text-align: center;
+  height: 60px;
+  width: 90px;
+  top: -8px;
+  left: 242px;
+  transition: background-image 0.3s linear;
+}
+.like4:hover {
+  background-image: url(logo2.png);
+  
+}
+
+
+.text4{
+  /* White gold ring with diamonds and tanzanite */
+position: absolute;
+width: 318px;
+height: 154px;
+left: -135px;
+right: 884px;
+top: 565px;
+bottom: 2817px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 40px;
+font-weight: 100;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.text5{
+  /* White gold pendant */
+position: absolute;
+width: 327px;
+height: 49px;
+left: 300px;
+right: 465px;
+top: 182px;
+bottom: 3297px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 32px;
+font-weight: 100;
+line-height: 39px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.classic2{
+position: absolute;
+z-index: 1;
+width: 376px;
+height: 419px;
+left: 250px;
+top: 240px;
+box-sizing: border-box;
+border: 1px solid rgb(0, 0, 0);
+background: url(0D13C733A002ED7AC23CE12B7B79);
+}
+
+.like5{
+  background-image: url(logo.png);
+  position: absolute;
+  z-index: 2;
+  text-align: center;
+  height: 60px;
+  width: 90px;
+  top: -8px;
+  left: 286px;
+  transition: background-image 0.3s linear;
+}
+.like5:hover {
+  background-image: url(logo2.png);
+  
+}
+
+.text6{
+  /* with diamonds and tanzanite */
+position: absolute;
+width: 473px;
+height: 49px;
+left: 200px;
+right: 386px;
+top: 675px;
+bottom: 2817px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 32px;
+font-weight: 100;
+line-height: 39px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.text7{
+  /* Earrings in white gold with diamonds and tanzanites */
+position: absolute;
+width: 318px;
+height: 154px;
+left: 685px;
+right: 54px;
+top: 182px;
+bottom: 3196px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 36px;
+font-weight: 100;
+line-height: 44px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.classic3{
+  /* BCF2D260115DCD7E88AE002B4511 1 */
+position: absolute;
+z-index: 1;
+width: 323px;
+height: 363px;
+left: 690px;
+top: 365px;
+box-sizing: border-box;
+border: 1px solid rgb(0, 0, 0);
+background: url(BCF2D260115DCD7E88AE002B4511);
+}
+
+.like6{
+  background-image: url(logo.png);
+  position: absolute;
+  z-index: 2;
+  text-align: center;
+  height: 60px;
+  width: 90px;
+  top: -8px;
+  left: 234px;
+  transition: background-image 0.3s linear;
+}
+.like6:hover {
+  background-image: url(logo2.png);
+  
+}
+
+.cost4{
+  /* 999£ */
+position: absolute;
+width: 331px;
+height: 105px;
+left: -140px;
+right: 878px;
+top: 750px;
+bottom: 2677px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 100;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+/* border: 1px solid rgb(0, 0, 0);
+background: url(BCF2D260115DCD7E88AE002B4511); */
+}
+
+.cost5{
+  /* 1399£ */
+position: absolute;
+width: 404px;
+height: 67px;
+left: 230px;
+right: 426px;
+top: 735px;
+bottom: 2715px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 100;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+background: url(BCF2D260115DCD7E88AE002B4511);
+}
+
+.cost6{
+  /* 1049£ */
+position: absolute;
+width: 264px;
+height: 67px;
+left: 725px;
+right: 74px;
+top: 735px;
+bottom: 2715px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 100;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+background: url(BCF2D260115DCD7E88AE002B4511);
+}
+
+.name-items1{
+  /* a set of three pieces of white gold with diamonds and tanzanite CLASSIC */
+position: absolute;
+width: 882px;
+height: 109px;
+left: 1px;
+right: 181px;
+top: 825px;
+bottom: 2590px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 250;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.vector3{
+  /* Vector 3 */
+position: absolute;
+width: 1170px;
+height: 0;
+left: -115px;
+top: 955px;
+}
+
+.heart1{
+  /* C763737B0E0C080D5A90A3F2B1D3 1 */
+position: absolute;
+width: 309px;
+height: 368px;
+left: -140px;
+top: 1015px;
+box-sizing: border-box;
+
+background: url(C763737B0E0C080D5A90A3F2B1D3);
+}
+
+.like7{
+  background-image: url(logo.png);
+  position: absolute;
+  z-index: 2;
+  text-align: center;
+  height: 60px;
+  width: 90px;
+  top: -8px;
+  left: 242px;
+  transition: background-image 0.3s linear;
+}
+.like7:hover {
+  background-image: url(logo2.png);
+  
+}
+
+.text8{
+  /* White gold ring with diamonds and tanzanite */
+position: absolute;
+width: 318px;
+height: 154px;
+left: -140px;
+right: 898px;
+top: 1400px;
+bottom: 1980px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 40px;
+font-weight: 100;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.text9{
+position: absolute;
+width: 371px;
+height: 51px;
+left: 300px;
+right: 455px;
+top: 1015px;
+bottom: 2457px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 32px;
+font-weight: 100;
+line-height: 39px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.heart2{
+position: absolute;
+z-index: 1;
+width: 490px;
+height: 453px;
+left: 195px;
+top: 1100px;
+box-sizing: border-box;
+border: 1px solid rgb(0, 0, 0);
+background: url(9CDF28595328A950610547BABD63);
+}
+
+.like8{
+  background-image: url(logo.png);
+  position: absolute;
+  z-index: 2;
+  text-align: center;
+  height: 60px;
+  width: 90px;
+  top: -8px;
+  left: 401px;
+  transition: background-image 0.3s linear;
+}
+.like8:hover {
+  background-image: url(logo2.png);
+  
+}
+
+.heart3{
+  /* 51A0DFC149AD869AE8AFC7E0B2AD 1 */
+position: absolute;
+width: 327px;
+height: 368px;
+left: 690px;
+top: 1015px;
+box-sizing: border-box;
+border: 1px solid rgb(0, 0, 0);
+background: url(51A0DFC149AD869AE8AFC7E0B2AD);
+}
+
+.like9{
+  background-image: url(logo.png);
+  position: absolute;
+  z-index: 2;
+  text-align: center;
+  height: 60px;
+  width: 90px;
+  top: -8px;
+  left: 238px;
+  transition: background-image 0.3s linear;
+}
+.like9:hover {
+  background-image: url(logo2.png);
+  
+}
+
+.text10{
+  /* Earrings in white gold with diamonds and tanzanites */
+position: absolute;
+width: 318px;
+height: 154px;
+left: 685px;
+right: 88px;
+top: 1400px;
+bottom: 2005px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 36px;
+font-weight: 100;
+line-height: 44px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.cost7{
+/* 1499£ */
+position: absolute;
+width: 331px;
+height: 105px;
+left: -140px;
+right: 892px;
+top: 1600px;
+bottom: 1840px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 100;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+/* border: #000000 2px solid; */
+}
+
+.cost8{
+  /* 1899£ */
+position: absolute;
+width: 404px;
+height: 67px;
+left: 245px;
+right: 440px;
+top: 1600px;
+bottom: 1878px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 100;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+
+.cost9{
+  /* 1659£ */
+position: absolute;
+width: 264px;
+height: 67px;
+left: 725px;
+right: 88px;
+top: 1600px;
+bottom: 1878px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 100;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+
+.name-items2{
+  /* a set of three pieces of white gold with diamonds and tanzanite HURT */
+position: absolute;
+width: 882px;
+height: 109px;
+left: 1px;
+right: 195px;
+top: 1700px;
+bottom: 1753px;
+color: rgb(0, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 250;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.bkline{
+position: absolute;
+width: 1105px;
+height: 650px;
+left: 400px;
+right: 70px;
+top: 900px;
+bottom: 3539px;
+filter: blur(0.5);
+
+
+}
+.bkline3{
+  position: absolute;
+  width: 1105px;
+  height: 650px;
+  left: 0px;
+  right: 70px;
+  top: 1000px;
+  bottom: 3539px;
+  filter: blur(0.5);
+  color: #CBAE9C;
+  
+  }
